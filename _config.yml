@@ -1,6 +1,23 @@
-title: Minimal theme
+title: <p align="center"> Suraksha G Bharadwaj </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/suraksha-g-bharadwaj-b61ab298/">LinkedIn</a> 
+  <a href="https://github.com/sgrbharadwaj">GitHub</a>
+  
+  <br>   
+A dedicated and diligent
+developer with 3.5 years of
+experience and exceptional
+knowledge on cutting edge
+technologies like Angular JS,
+Node JS, Express JS and
+MongoDB.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
